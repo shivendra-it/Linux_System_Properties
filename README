@@ -1,0 +1,8 @@
+*) This is a shell script for Analyzing complete System Properties.
+*) This can be run in any kind of UNIX SYSTEM.
+*) The System Properties information will be stored in a "USERNAME".xml Format.
+*) For running this script just copy it :-
+	--> open terminal and type
+		 ./Linux_scan_linux.sh
+Thank You
+Shivendra Pratap Singh
