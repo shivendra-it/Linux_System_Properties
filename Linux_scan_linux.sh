@@ -2,14 +2,14 @@
 
 ############ Server details ############
 
-hostName="MPOHELPDESKSRV"
+hostName="XXXXX"
 portNo="443"
 protocol="https"
 
 ############ Server details ############
 
-SUPPORT="assetexplorer-support@manageengine.com"
-PRODUCT="AssetExplorer"
+SUPPORT="XXXXX"
+PRODUCT="XXXXX"
 
 COMPUTERNAME=`hostname`
 OUTPUTFILE="$COMPUTERNAME.xml"
